@@ -2,7 +2,7 @@
 name: João Lima
 image: images/member.jpg
 description: Bark Ops Engineer
-role: programmer
+role: pi
 aliases:
   - A. Chovie
   - A Chovie

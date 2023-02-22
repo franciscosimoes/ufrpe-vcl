@@ -2,7 +2,7 @@
 name: Francisco Simões
 image: images/fpms_profile.jpg
 description: 
-role: phd
+role: pi
 group: alum
 aliases:
   - F. Simões

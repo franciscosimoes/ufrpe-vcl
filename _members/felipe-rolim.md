@@ -2,7 +2,7 @@
 name: Felipe Rolim
 image: images/member.jpg
 description: Treat Researcher
-role: phd
+role: pi
 group: alum
 aliases:
   - F. Cited
