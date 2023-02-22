@@ -1,12 +1,19 @@
 - id: doi:10.1016/j.patrec.2022.04.008
   image: paper_thumbnails/kbc_prl22.jpg
-  date: 2022-7-1
   extra-links:
     - type: manubot
       link: https://www.sciencedirect.com/science/article/pii/S0167865522001040
   tags:
     - Domain Randomization
     - 6DOF pose estimation
+
+- id: doi:10.1007/s00138-022-01323-9
+  image: paper_thumbnails/lima_mva22.jpg
+  extra-links:
+    - type: manubot
+      link: https://doi.org/10.1007/s00138-022-01323-9
+  tags:
+    - Pedestrian detection
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
