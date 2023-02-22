@@ -3,14 +3,14 @@
 # site properties and page defaults
 title: Visual Computing Laboratory
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/Eye_memoreks.jpg
+logo: images/ufrpe_vcl_logo.jpg
 header: images/banner.jpg
 footer: images/banner.jpg
 baseurl: /ufrpe-vcl
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
+  email: vcl.dc@ufrpe.br
   google-scholar: ETJoidYAAAAJ
   github: your-lab
   twitter: YourLabHandle
