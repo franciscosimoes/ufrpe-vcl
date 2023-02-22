@@ -1,5 +1,5 @@
 ---
-name: Upton O. Goode
+name: Valmir Macario
 image: images/member.jpg
 description: Bone Investigator
 role: pi
