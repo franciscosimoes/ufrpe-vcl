@@ -21,19 +21,13 @@ Nosso time é composto por 4 investigadores principais, todos professores do Dep
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: phd"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
+  filters="role: undergrad"
 %}
 {:.center}
 
