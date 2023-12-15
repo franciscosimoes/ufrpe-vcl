@@ -1,7 +1,7 @@
 ---
 name: Francisco Simões
 image: images/fpms_profile.jpg
-description: 
+description: Professor
 role: pi
 group: alum
 aliases:
@@ -11,6 +11,8 @@ links:
   home-page: https://franciscosimoes.github.io/
   email: francisco.simoes@ufrpe.br
   scholar: https://scholar.google.com/citations?user=Th2uQr8AAAAJ&hl=en
+  orcid: 0000-0001-9368-2298
+  github: franciscosimoes
 ---
 
 Francisco Simões é professor da Universidade Federal Rural de Pernambuco (UFRPE) desde 2020, onde atua como líder de pesquisas no UFRPE-VCL do departamento de computação desde 2022. Francisco também atua como líder de pesquisas no Voxar Labs do CIn-UFPE desde 2011 e é coordenador da CE-RV da Sociedade Brasileira de Computação, com mandato de 2022 à 2024. 

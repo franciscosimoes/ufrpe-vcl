@@ -1,22 +1,22 @@
 pi:
   icon: fas fa-microscope
-  text: Principal Investigator
+  text: Investigador Principal
 
 postdoc:
   icon: fas fa-glasses
-  text: Postdoctoral Researcher
+  text: Pesquisador Pós-Doutoral
 
 phd:
   icon: fas fa-graduation-cap
-  text: PhD Student
+  text: Doutorando (PhD Student)
+
+msc:
+  icon: fas fa-code
+  text: Mestrando (MSc. Student)
 
 undergrad:
   icon: fas fa-user-graduate
-  text: Undergraduate Student
-
-programmer:
-  icon: fas fa-code
-  text: Programmer
+  text: Graduando
 
 mascot:
   icon: fas fa-dog

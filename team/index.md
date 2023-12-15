@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Nosso time é composto por 4 investigadores principais, todos professores do Departamento de Computação da UFRPE e seus orientandos. 
+Nosso time é composto por 4 investigadores principais, todos professores do Departamento de Computação da UFRPE, e seus orientandos. 
 
 {% include section.html %}
 
@@ -40,7 +40,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Post Doctoral Researcher
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 

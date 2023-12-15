@@ -2,17 +2,16 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# UFRPE Visual Computing Laboratory
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+O UFRPE-VCL visa desenvolver pesquisas de base e aplicadas em Ciência da Computação, principalmente nas áreas de Visão Computacional e Computação Visual, bem como em áreas afins e complementares como Computação Gráfica, Deep Learning, Inteligência Artificial, Realidade Virtual e Aumentada, Ciência de Dados, Interação Homem-Computador, Jogos, entre outras.
 
 {%
   include link.html
-  type="github"
+  type="home-page"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="Site do DC-UFRPE"
+  link="http://www.dc.ufrpe.br/"
   style="button"
 %}
 {%
@@ -27,7 +26,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include figure.html image="images/ufrpe-vcl-logo-ai.png.jpg" %}
 
 {% include section.html %}
 

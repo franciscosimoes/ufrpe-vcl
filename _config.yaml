@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Visual Computing Laboratory
 description: Laboratório de Computação Visual do Departamento de Computação da UFRPE.
-logo: images/ufrpe_vcl_logo.jpg
+logo: images/ufrpe-vcl-logo-ai-no-name.png
 header: images/banner.jpg
 footer: images/banner.jpg
 baseurl: /ufrpe-vcl
@@ -11,9 +11,9 @@ baseurl: /ufrpe-vcl
 # site social media and other links
 links:
   email: vcl.dc@ufrpe.br
-  google-scholar: ETJoidYAAAAJ
+#  google-scholar: ETJoidYAAAAJ
   github: your-lab
-  twitter: YourLabHandle
+#  twitter: YourLabHandle
   instagram: YourLabHandle
   youtube: YourLabChannel
 
