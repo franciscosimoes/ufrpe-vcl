@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: UFRPE Visual Computing Laboratory
 description: Laboratório de Computação Visual do Departamento de Computação da UFRPE.
-logo: images/ufrpe-vcl-logo-ai.png
+logo: images/ufrpe-vcl-eye-transparente.png
 header: images/banner_ai.jpg
 footer: images/banner_ai.jpg
 baseurl: /ufrpe-vcl
