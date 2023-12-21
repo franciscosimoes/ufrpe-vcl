@@ -4,7 +4,7 @@ title: Home
 
 # UFRPE Visual Computing Laboratory
 
-O UFRPE-VCL visa desenvolver pesquisas de base e aplicadas em Ciência da Computação, principalmente nas áreas de Visão Computacional e Computação Visual, bem como em áreas afins e complementares como Computação Gráfica, Deep Learning, Inteligência Artificial, Realidade Virtual e Aumentada, Ciência de Dados, Interação Homem-Computador, Jogos, entre outras.
+O UFRPE Visual Computing Lab é um laboratório de pesquisa situado no Departamento de Computação da Universidade Federal Rural de Pernambuco. Focado principalmente nas áreas de Visão Computacional e Computação Visual, o UFRPE-VCL atua em pesquisas de base e aplicadas em áreas como Sensoriamento Inteligente para a Indústria e o Agronegócio, Análises de Imagens Médicas, Cidades Inteligentes (Complementar Aqui).
 
 {%
   include link.html
@@ -33,13 +33,12 @@ O UFRPE-VCL visa desenvolver pesquisas de base e aplicadas em Ciência da Comput
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+As pesquisas do UFRPE-VCL geram resultados de alto impacto científico, sendo publicados em periódicos e eventos de alta relevância como Pattern Recognition Letters, Computers and Graphics, CVPRW, WACV, IJRS, CAG (COMPLETAR).
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Veja nossas publicações"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -48,15 +47,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research_ai.jfif"
   link="research"
-  title="Our Research"
+  title="Nossa Pesquisa"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nossas tecnologias estão disponíveis bla bla bla.
 
 {%
   include link.html
@@ -70,7 +68,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tools_ai.jfif"
   link="resources"
   title="Our Resources"
   flip=true
@@ -78,7 +76,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Nosso time é composto por professores, pesquisadores e estudantes da UFRPE, com parcerias nacionais e internacionais para o desenvolvimento de pesquisas de ponta.
 
 {%
   include link.html
@@ -92,11 +90,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_ai.jfif.jpg"
   link="team"
   title="Our Team"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+*As imagens deste site foram criadas com a plataforma Dall-e3, acessada através do Bing Image Creator em 12/2023: link="https://www.bing.com/images/create/".
