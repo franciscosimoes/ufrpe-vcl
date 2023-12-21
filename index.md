@@ -14,14 +14,14 @@ O UFRPE Visual Computing Lab é um laboratório de pesquisa situado no Departame
   link="http://www.dc.ufrpe.br/"
   style="button"
 %}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+# {%
+#  include link.html
+#  type="docs"
+#  icon=""
+#  text="See the documentation"
+#  link="https://github.com/greenelab/lab-website-template/wiki"
+#  style="button"
+# %}
 {:.center}
 
 {% include section.html full=true %}
@@ -54,12 +54,12 @@ As pesquisas do UFRPE-VCL geram resultados de alto impacto científico, sendo pu
 %}
 
 {% capture text %}
-Nossas tecnologias estão disponíveis bla bla bla.
+Nossos projetos focam em desenvolver tecnologias de impacto para setores como agronegócio, indústria, saúde e cidades inteligentes (COMPLETAR).
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="projetos"
+  text="Veja nossos projetos e tecnologias"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -69,14 +69,14 @@ Nossas tecnologias estão disponíveis bla bla bla.
 {%
   include feature.html
   image="images/tools_ai.jfif"
-  link="resources"
-  title="Our Resources"
+  link="projetos"
+  title="Nossos projetos e tecnologias"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Nosso time é composto por professores, pesquisadores e estudantes da UFRPE, com parcerias nacionais e internacionais para o desenvolvimento de pesquisas de ponta.
+Nosso time é composto por professores, pesquisadores e estudantes da UFRPE, atuando em parcerias nacionais e internacionais com foco no desenvolvimento de novas tecnologias para problemas reais.
 
 {%
   include link.html
