@@ -26,7 +26,7 @@ O UFRPE-VCL visa desenvolver pesquisas de base e aplicadas em Ciência da Comput
 
 {% include section.html full=true %}
 
-{% include figure.html image="images/logo-vcl-transparent.png"%}
+{% include figure.html image="images/ufrpe-vcl-logo-ai.png"%}
 
 {% include section.html %}
 
