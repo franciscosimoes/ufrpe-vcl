@@ -90,7 +90,7 @@ Nosso time é composto por professores, pesquisadores e estudantes da UFRPE, com
 
 {%
   include feature.html
-  image="images/team_ai.jfif.jpg"
+  image="images/team_ai.jfif"
   link="team"
   title="Our Team"
   text=text

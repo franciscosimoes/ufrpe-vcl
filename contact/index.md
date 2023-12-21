@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Nosso laboratório é parte do [Departamento de Computação](DC), na Universidade Federal Rural de Pernambuco [UFRPE]().
+Estamos localizados no 3º andar do [Edfício João Vasconcelos Sobrinho - CEAGRI 2/Departamento de Computação]().
 
 {%
   include link.html
@@ -59,7 +59,7 @@ Canada
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Department of Metaphor"
+  caption="Departamento de Computação"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
